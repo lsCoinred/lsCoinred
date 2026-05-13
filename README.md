@@ -8,8 +8,6 @@
   </picture>
 </p>
 
----
-
 - Undergraduate at ShanghaiTech University, advised by [Prof. Kewei Tu](https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/). 
 - Research interest: NLP / LLM / Speech / MLSys
 - Also interested in Linguistics and Embedded Dev. 
