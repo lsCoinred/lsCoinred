@@ -3,11 +3,15 @@ name: Update README cards
 on:
   schedule:
     - cron: "0 0 * * *" # Runs once daily at midnight
-  workflow_dispatch:
+  workflow_dispatch: # Allows manual triggering
+  push: # Runs on every push to the main branch
+    branches:
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
 
     permissions:
       contents: write
@@ -38,6 +42,15 @@ jobs:
       #     options: username=readme-tools&repo=github-readme-stats
       #     path: profile/pin-readme-tools-github-readme-stats.svg
       #     token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: generate contribution graph SVG
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: 'pacman'
+
+      - name: move contribution graph SVG
+        run: mv dist/*.svg profile/
 
       - name: Commit cards
         run: |
