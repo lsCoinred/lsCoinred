@@ -12,3 +12,17 @@ Per aspera ad astra.
 - Learn more in [my homepage](lscoinred.github.io). 
 
 ---
+
+<p align="center">
+
+  <!-- GitHub Stats -->
+  <picture>
+    <img src="./profile/stats.svg" alt="GitHub stats" />
+  </picture>
+
+  <!-- Top Languages -->
+  <picture>
+    <img src="./profile/top-langs.svg" alt="Top languages" />
+  </picture>
+
+</p>
