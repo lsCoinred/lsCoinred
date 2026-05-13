@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello World! 👋
 
-<!--
-**lsCoinred/lsCoinred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Per aspera ad astra.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Undergraduate at ShanghaiTech University, advised by [Prof. Kewei Tu](https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/). 
+- Research interest: NLP / LLM / Speech / MLSys
+- Also interested in Linguistics and Embedded Dev. 
+- Member of ShanghaiTech's [GeekPie_ Association](https://github.com/ShanghaitechGeekPie/) and ACM Club.
+- Served as Teaching Assistant in several courses.
+- Learn more in [my homepage](lscoinred.github.io). 
+
+---
