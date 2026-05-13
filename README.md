@@ -13,7 +13,7 @@
 - Also interested in Linguistics and Embedded Dev. 
 - Member of ShanghaiTech's [GeekPie_ Association](https://github.com/ShanghaitechGeekPie/) and ACM Club.
 - Served as Teaching Assistant in several courses.
-- Learn more in [my homepage](lscoinred.github.io). 
+- Learn more in [my homepage](lscoinred.github.io).
 
 ---
 
@@ -27,6 +27,17 @@
   <!-- Top Languages -->
   <picture>
     <img src="./profile/top-langs.svg" alt="Top languages" />
+  </picture>
+
+</p>
+
+<p align="center">
+
+  <!-- Pac-Man -->
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./profile/pacman-contribution-graph-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./profile/pacman-contribution-graph.svg">
+      <img alt="pacman contribution graph" src="./profile/pacman-contribution-graph.svg">
   </picture>
 
 </p>
