@@ -1,6 +1,12 @@
 ## Hello World! 👋
 
-Per aspera ad astra.
+<p align="center">
+  <picture>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=66CCFF&center=true&random=true&lines=Per+aspera+ad+astra." alt="Typing SVG" />
+    </a>
+  </picture>
+</p>
 
 ---
 
